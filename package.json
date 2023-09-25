@@ -1,0 +1,10 @@
+{
+  "name": "automationWithCypress",
+  "version": "1",
+  "main": "index.js",
+  "author": "Ayu Armadani Putri Mahirun",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
